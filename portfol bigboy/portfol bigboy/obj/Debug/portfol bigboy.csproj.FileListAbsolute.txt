@@ -1,0 +1,20 @@
+C:\Users\c.doris\source\repos\portfol bigboy\portfol bigboy\bin\Debug\portfol bigboy.exe.config
+C:\Users\c.doris\source\repos\portfol bigboy\portfol bigboy\bin\Debug\portfol bigboy.exe
+C:\Users\c.doris\source\repos\portfol bigboy\portfol bigboy\bin\Debug\portfol bigboy.pdb
+C:\Users\c.doris\source\repos\portfol bigboy\portfol bigboy\obj\Debug\portfol bigboy.csprojAssemblyReference.cache
+C:\Users\c.doris\source\repos\portfol bigboy\portfol bigboy\obj\Debug\portfol_bigboy.Form1.resources
+C:\Users\c.doris\source\repos\portfol bigboy\portfol bigboy\obj\Debug\portfol_bigboy.Properties.Resources.resources
+C:\Users\c.doris\source\repos\portfol bigboy\portfol bigboy\obj\Debug\portfol bigboy.csproj.GenerateResource.cache
+C:\Users\c.doris\source\repos\portfol bigboy\portfol bigboy\obj\Debug\portfol bigboy.csproj.CoreCompileInputs.cache
+C:\Users\c.doris\source\repos\portfol bigboy\portfol bigboy\obj\Debug\portfol bigboy.exe
+C:\Users\c.doris\source\repos\portfol bigboy\portfol bigboy\obj\Debug\portfol bigboy.pdb
+C:\Users\coddo\source\repos\portf-main\portfol bigboy\portfol bigboy\obj\Debug\portfol bigboy.csprojAssemblyReference.cache
+C:\Users\coddo\source\repos\portf-main\portfol bigboy\portfol bigboy\obj\Debug\portfol_bigboy.Form1.resources
+C:\Users\coddo\source\repos\portf-main\portfol bigboy\portfol bigboy\obj\Debug\portfol_bigboy.Properties.Resources.resources
+C:\Users\coddo\source\repos\portf-main\portfol bigboy\portfol bigboy\obj\Debug\portfol bigboy.csproj.GenerateResource.cache
+C:\Users\coddo\source\repos\portf-main\portfol bigboy\portfol bigboy\obj\Debug\portfol bigboy.csproj.CoreCompileInputs.cache
+C:\Users\coddo\source\repos\portf-main\portfol bigboy\portfol bigboy\obj\Debug\portfol bigboy.exe
+C:\Users\coddo\source\repos\portf-main\portfol bigboy\portfol bigboy\obj\Debug\portfol bigboy.pdb
+C:\Users\coddo\source\repos\portf-main\portfol bigboy\portfol bigboy\bin\Debug\portfol bigboy.exe.config
+C:\Users\coddo\source\repos\portf-main\portfol bigboy\portfol bigboy\bin\Debug\portfol bigboy.exe
+C:\Users\coddo\source\repos\portf-main\portfol bigboy\portfol bigboy\bin\Debug\portfol bigboy.pdb
